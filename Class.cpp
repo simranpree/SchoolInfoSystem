@@ -1,4 +1,4 @@
-#include <iostream>
+
 // In this project we&#39;ve created a database which stores the data of the schools teachers and
 students.All the information
 // must be entered the user which will be stored in the dynamic array.
